@@ -1,7 +1,5 @@
-//acccount no:
-1001
-1002
+Acccount no:        Customer name:
+1001                ishwar
+1002                srishti
 
-//customer name:
-ishwar
-srishti
+
